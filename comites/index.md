@@ -17,12 +17,12 @@ header:
  + Gaëlle Shifrin (CC-IN2P3, CNRS)
 
 #### Comité de pilotage
- + Emmanuel Agullo (Représentant Parallélisme, Bordeaux, depuis 07/2019)
+ + Emmanuel Agullo (Représentant Parallélisme, Bordeaux)
  + André-Luc Beylot (Représentant GDR RSD, Toulouse)
- + Caroline Collange (Représentante Architecture, Rennes, depuis 04/2018)
+ + Caroline Collange (Représentante Architecture, Rennes)
  + Fabien Hermenier (Organisateur 2017, Nice)
  + Kevin Martin (Représentant GDR SOC², Lorient)
- + Gilles Muller (Représentant Système, Rennes, depuis 07/2019, Président)
+ + Gilles Muller (Représentant Système, Rennes, Président)
  + Étienne Rivière (Représentant ASF, Bruxelles)
  + Philippe Roose (Organisateur 2019, Anglet)
  + Alain Tchana (Organisateur 2018, Toulouse)
