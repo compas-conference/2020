@@ -30,7 +30,7 @@ header:
 #### Comité de programme
 **Présidents : Christophe Alias, Emmanuel Agullo, Julia Lawall**
 
-Emmanuel Agullo, Inria
-Christophe Alias Inria 
-Julia Lawall, Inria
-(To be completed)
++ Emmanuel Agullo, Inria
++ Christophe Alias Inria 
++ Julia Lawall, Inria
++ (To be completed)
