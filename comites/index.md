@@ -28,4 +28,9 @@ header:
  + Alain Tchana (Organisateur 2018, Toulouse)
 
 #### Comité de programme
-TBD
+**Présidents : Christophe Alias, Emmanuel Agullo, Julia Lawall**
+
+Emmanuel Agullo, Inria
+Christophe Alias Inria 
+Julia Lawall, Inria
+(To be completed)
