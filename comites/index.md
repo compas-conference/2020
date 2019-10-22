@@ -28,9 +28,9 @@ header:
  + Alain Tchana (Organisateur 2018, Toulouse)
 
 #### Comité de programme
-**Présidents : Christophe Alias, Emmanuel Agullo, Julia Lawall**
+**Présidents : Christophe Alias, Alfredo Buttari, Julia Lawall**
 
-+ Emmanuel Agullo, Inria
 + Christophe Alias Inria 
++ Alfredo Buttari, CNRS
 + Julia Lawall, Inria
 + (To be completed)
