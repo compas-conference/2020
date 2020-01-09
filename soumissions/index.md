@@ -9,6 +9,7 @@ header:
    image_fullwidth: "berges.jpg"
    permalink: "/"
 ---
+
 Cette année, Compas souhaite encourager les contributions et la participation de la communauté des systèmes temps réel, cette thématique étant fortement liée aux thématiques déjà représentées à la conférence. Compas sollicite des contributions selon deux modes de soumissions :
 
 ### **Option 1 : Article**
@@ -45,4 +46,10 @@ Les soumissions doivent utiliser le **[style LaTeX de la conférence](../assets/
 
 Compas n'a pas pour objectif de remplacer une publication dans une conférence internationale. Les articles et résumés acceptés seront mis à disposition des participants. Les auteurs d'articles standards seront invités, si ils le souhaitent, à mettre à disposition leur article en accès ouvert sur HAL, dans une collection dédiée à la conférence. Ceci n'est pas une obligation afin de ne pas compromettre une publication des mêmes travaux dans un forum international.
 {: style="text-align: justify;"}
+
+### **Dates importantes**
+
+- [Option 1 : Article] Échéance : **20 Mars 2020**
+- [Option 2 : Résumé] Échéance : **10 Avril 2020**
+- Notification : **4 Mai 2020**
 
