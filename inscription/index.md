@@ -1,5 +1,8 @@
 ---
-layout: page_fullwidth
+layout: page-fullwidth
+#
+# Content
+#
 title: "Tarifs"
 teaser: ""
 header:
