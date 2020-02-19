@@ -16,11 +16,21 @@ inscriptions effectuées après le **1er Juin 2020**.
 {: style="text-align: justify;"}
 
 <style type="text/css">
-.col-md-4 {
-    -webkit-box-flex: 0;
-        -ms-flex: 0 0 33.3333333333%;
-            flex: 0 0 33.3333333333%;
-    max-width: 33.3333333333%;
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+col-md-4 {
+	-webkit-box-flex: 0;
+		-ms-flex: 0 0 33.3333333333%;
+			flex: 0 0 33.3333333333%;
+		max-width: 33.3333333333%;
 }
 
 #mu-pricing {
@@ -138,64 +148,64 @@ inscriptions effectuées après le **1er Juin 2020**.
 
 <div markdown="0" class="mu-pricing-conten">
   <div markdown="0" class="row">
-     <!-- single price item -->
-     <div markdown="0" class="col-md-4">
-    	<div markdown="0" class="mu-single-price">
-		  <div markdown="0" class="mu-single-price-head">
-		    <span class="mu-currency">&euro;</span>
-		    <span class="mu-rate">200</span>
-		    <span class="mu-time">/4 jours</span>
-		  </div>
-		  <h3 class="mu-price-title">ETUDIANT</h3>
-		  <ul>
-		    <li>Pauses café</li>
-		    <li>Repas du midi</li>
-		    <li>Social Event</li>
-		  </ul>
-		  <a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=e"> Inscription</a>
-		</div>
-	  </div>
-	      <!-- / single price item -->
+    <!-- single price item -->
+    <div markdown="0" class="col-md-4">
+      <div markdown="0" class="mu-single-price">
+	<div markdown="0" class="mu-single-price-head">
+	  <span class="mu-currency">&euro;</span>
+	  <span class="mu-rate">200</span>
+	  <span class="mu-time">/4 jours</span>
+	</div>
+	<h3 class="mu-price-title">ETUDIANT</h3>
+	<ul>
+	  <li>Pauses café</li>
+	  <li>Repas du midi</li>
+	  <li>Social Event</li>
+	</ul>
+	<a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=e"> Inscription</a>
+      </div>
+    </div>
+    <!-- / single price item -->
 
-	      <!-- single price item -->
-	      <div markdown="0" class="col-md-4"> <!-- anciennement col-md-4-->
-		<div markdown="0" class="mu-single-price mu-popular-price">
-		  <span class="mu-price-tag">Standard</span>
-		  <div markdown="0" class="mu-single-price-head">
-		    <span class="mu-currency">&euro;</span>
-		    <span class="mu-rate">300</span>
-		    <span class="mu-time">/4 jours</span>
-		  </div>
-		  <h3 class="mu-price-title">CHERCHEUR</h3>
-		  <ul>
-		    <li>Pauses café</li>
-		    <li>Repas du midi</li>
-		    <li>Social Event</li>
-		  </ul>
-		  <a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=c"> Inscription</a>
-		</div>
-	      </div>
-	      <!-- / single price item -->
+    <!-- single price item -->
+    <div markdown="0" class="col-md-4"> <!-- anciennement col-md-4-->
+      <div markdown="0" class="mu-single-price mu-popular-price">
+	<span class="mu-price-tag">Standard</span>
+	<div markdown="0" class="mu-single-price-head">
+	  <span class="mu-currency">&euro;</span>
+	  <span class="mu-rate">300</span>
+	  <span class="mu-time">/4 jours</span>
+	</div>
+	<h3 class="mu-price-title">CHERCHEUR</h3>
+	<ul>
+	  <li>Pauses café</li>
+	  <li>Repas du midi</li>
+	  <li>Social Event</li>
+	</ul>
+	<a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=c"> Inscription</a>
+      </div>
+    </div>
+    <!-- / single price item -->
 
-	      <!-- single price item -->
-	      <div markdown="0" class="col-md-4">
-		<div markdown="0" class="mu-single-price">
+    <!-- single price item -->
+    <div markdown="0" class="col-md-4">
+      <div markdown="0" class="mu-single-price">
 
-		  <div markdown="0" class="mu-single-price-head">
-		    <span class="mu-currency">&euro;</span>
-		    <span class="mu-rate">50</span>
-		    <span class="mu-time">/1 jour</span>
-		  </div>
-		  <h3 class="mu-price-title">ATELIERS ONLY</h3>
-		  <ul>
-		    <li>Pauses café du 25 juin</li>
-		    <li>Repa du midi du 25 juin</li>
-		    <li>&nbsp;</li>
-		  </ul>
-		  <a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=a"> Inscription</a>
-		</div>
-	      </div>
-	      <!-- / single price item -->
-	    </div>
-	  </div>
+	<div markdown="0" class="mu-single-price-head">
+	  <span class="mu-currency">&euro;</span>
+	  <span class="mu-rate">50</span>
+	  <span class="mu-time">/1 jour</span>
+	</div>
+	<h3 class="mu-price-title">ATELIERS ONLY</h3>
+	<ul>
+	  <li>Pauses café du 25 juin</li>
+	  <li>Repa du midi du 25 juin</li>
+	  <li>&nbsp;</li>
+	</ul>
+	<a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=a"> Inscription</a>
+      </div>
+    </div>
+    <!-- / single price item -->
+  </div>
+</div>
 
