@@ -9,7 +9,13 @@ header:
     image_fullwidth: "berges.jpg"
     permalink: "/"
 ---
-@import "{{ site.theme }}";
+
+Le tarif pour les 4 jours de conférence dépend de votre statut. Le paiement se fait en ligne de manière sécurisée via 
+Azur Colloques du **4 Mai 2020** au **21 Juin 2020**. Une majoration de **30&euro;** sera appliquée pour les 
+inscriptions effectuées après le **1er Juin 2020**.
+{: style="text-align: justify;"}
+
+<style type="text/css">
 #mu-pricing {
 	background-color: #fff;
 	display: inline;
@@ -121,24 +127,18 @@ header:
 	transform: rotate(-45deg);
 	text-align: center;
 }
+</style>
 
-Le tarif pour les 4 jours de conférence dépend de votre statut. Le paiement se fait en ligne de manière sécurisée via 
-Azur Colloques du **4 Mai 2020** au **21 Juin 2020**. Une majoration de **30&euro;** sera appliquée pour les 
-inscriptions effectuées après le **1er Juin 2020**.
-{: style="text-align: justify;"}
-
-	  <div class="mu-pricing-conten">
-	    <div class="row">
-	      
-	      <!-- single price item -->
-	      <div class="col-md-4"> <!-- anciennement col-md-4-->
-		<div class="mu-single-price">
-
-		  <div class="mu-single-price-head">
+<div markdown="0" class="mu-pricing-conten">
+  <div markdown="0" class="row">
+     <!-- single price item -->
+     <div markdown="0" class="col-md-4">
+    	<div markdown="0" class="mu-single-price">
+		  <div markdown="0" class="mu-single-price-head">
 		    <span class="mu-currency">&euro;</span>
 		    <span class="mu-rate">200</span>
 		    <span class="mu-time">/4 jours</span>
-		  </div>
+		  </div markdown="0">
 		  <h3 class="mu-price-title">ETUDIANT</h3>
 		  <ul>
 		    <li>Pauses café</li>
@@ -146,19 +146,19 @@ inscriptions effectuées après le **1er Juin 2020**.
 		    <li>Social Event</li>
 		  </ul>
 		  <a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=e"> Inscription</a>
-		</div>
-	      </div>
+		</div markdown="0">
+	      </div markdown="0">
 	      <!-- / single price item -->
 
 	      <!-- single price item -->
-	      <div class="col-md-4"> <!-- anciennement col-md-4-->
-		<div class="mu-single-price mu-popular-price">
+	      <div markdown="0" class="col-md-4"> <!-- anciennement col-md-4-->
+		<div markdown="0" class="mu-single-price mu-popular-price">
 		  <span class="mu-price-tag">Standard</span>
-		  <div class="mu-single-price-head">
+		  <div markdown="0" class="mu-single-price-head">
 		    <span class="mu-currency">&euro;</span>
 		    <span class="mu-rate">300</span>
 		    <span class="mu-time">/4 jours</span>
-		  </div>
+		  </div markdown="0">
 		  <h3 class="mu-price-title">CHERCHEUR</h3>
 		  <ul>
 		    <li>Pauses café</li>
@@ -166,19 +166,19 @@ inscriptions effectuées après le **1er Juin 2020**.
 		    <li>Social Event</li>
 		  </ul>
 		  <a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=c"> Inscription</a>
-		</div>
-	      </div>
+		</div markdown="0">
+	      </div markdown="0">
 	      <!-- / single price item -->
 
 	      <!-- single price item -->
-	      <div class="col-md-4">
-		<div class="mu-single-price">
+	      <div markdown="0" class="col-md-4">
+		<div markdown="0" class="mu-single-price">
 
-		  <div class="mu-single-price-head">
+		  <div markdown="0" class="mu-single-price-head">
 		    <span class="mu-currency">&euro;</span>
 		    <span class="mu-rate">50</span>
 		    <span class="mu-time">/1 jour</span>
-		  </div>
+		  </div markdown="0">
 		  <h3 class="mu-price-title">ATELIERS ONLY</h3>
 		  <ul>
 		    <li>Pauses café du 25 juin</li>
@@ -186,10 +186,9 @@ inscriptions effectuées après le **1er Juin 2020**.
 		    <li>&nbsp;</li>
 		  </ul>
 		  <a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=a"> Inscription</a>
-		</div>
-	      </div>
+		</div markdown="0">
+	      </div markdown="0">
 	      <!-- / single price item -->
-
-	    </div>
-	  </div>
+	    </div markdown="0">
+	  </div markdown="0">
 
