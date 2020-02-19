@@ -16,6 +16,13 @@ inscriptions effectuées après le **1er Juin 2020**.
 {: style="text-align: justify;"}
 
 <style type="text/css">
+.col-md-4 {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 33.3333333333%;
+            flex: 0 0 33.3333333333%;
+    max-width: 33.3333333333%;
+}
+
 #mu-pricing {
 	background-color: #fff;
 	display: inline;
@@ -138,7 +145,7 @@ inscriptions effectuées après le **1er Juin 2020**.
 		    <span class="mu-currency">&euro;</span>
 		    <span class="mu-rate">200</span>
 		    <span class="mu-time">/4 jours</span>
-		  </div markdown="0">
+		  </div>
 		  <h3 class="mu-price-title">ETUDIANT</h3>
 		  <ul>
 		    <li>Pauses café</li>
@@ -146,8 +153,8 @@ inscriptions effectuées après le **1er Juin 2020**.
 		    <li>Social Event</li>
 		  </ul>
 		  <a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=e"> Inscription</a>
-		</div markdown="0">
-	      </div markdown="0">
+		</div>
+	  </div>
 	      <!-- / single price item -->
 
 	      <!-- single price item -->
@@ -158,7 +165,7 @@ inscriptions effectuées après le **1er Juin 2020**.
 		    <span class="mu-currency">&euro;</span>
 		    <span class="mu-rate">300</span>
 		    <span class="mu-time">/4 jours</span>
-		  </div markdown="0">
+		  </div>
 		  <h3 class="mu-price-title">CHERCHEUR</h3>
 		  <ul>
 		    <li>Pauses café</li>
@@ -166,8 +173,8 @@ inscriptions effectuées après le **1er Juin 2020**.
 		    <li>Social Event</li>
 		  </ul>
 		  <a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=c"> Inscription</a>
-		</div markdown="0">
-	      </div markdown="0">
+		</div>
+	      </div>
 	      <!-- / single price item -->
 
 	      <!-- single price item -->
@@ -178,7 +185,7 @@ inscriptions effectuées après le **1er Juin 2020**.
 		    <span class="mu-currency">&euro;</span>
 		    <span class="mu-rate">50</span>
 		    <span class="mu-time">/1 jour</span>
-		  </div markdown="0">
+		  </div>
 		  <h3 class="mu-price-title">ATELIERS ONLY</h3>
 		  <ul>
 		    <li>Pauses café du 25 juin</li>
@@ -186,9 +193,9 @@ inscriptions effectuées après le **1er Juin 2020**.
 		    <li>&nbsp;</li>
 		  </ul>
 		  <a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=a"> Inscription</a>
-		</div markdown="0">
-	      </div markdown="0">
+		</div>
+	      </div>
 	      <!-- / single price item -->
-	    </div markdown="0">
-	  </div markdown="0">
+	    </div>
+	  </div>
 
