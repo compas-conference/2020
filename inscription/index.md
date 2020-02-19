@@ -11,11 +11,20 @@ header:
 ---
 
 Le tarif pour les 4 jours de conférence dépend de votre statut. Le paiement se fait en ligne de manière sécurisée via 
-Azur Colloques du **4 Mai 2020** au **21 Juin 2020**. Une majoration de **30&euro;** sera appliquée pour les 
+Azur Colloques du **4&nbsp;Mai 2020** au **21 Juin 2020**. <BR>Une majoration de **30&euro;** sera appliquée pour les 
 inscriptions effectuées après le **1er Juin 2020**.
 {: style="text-align: justify;"}
 
 <style type="text/css">
+.myrow {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
 .col-md-4 {
 	-webkit-box-flex: 0;
 		-ms-flex: 0 0 33.3333333333%;
@@ -51,12 +60,12 @@ inscriptions effectuées après le **1er Juin 2020**.
 	text-align: center;
 	position: relative;
 	width: 100%;
-	padding: 15px;
+	padding: 40px;
 	overflow: hidden;
 }
 
 .mu-single-price-head {
-	color: #0000CC;
+	color: #555;
 	display: inline;
 	float: left;
 	width: 100%;
@@ -70,7 +79,7 @@ inscriptions effectuées après le **1er Juin 2020**.
 }
 
 .mu-single-price-head .mu-rate {
-	font-size: 60px;
+	font-size: 44px;
 	font-weight: bold;
 	line-height: 0.9;
 	letter-spacing: 3px;
@@ -84,7 +93,7 @@ inscriptions effectuées après le **1er Juin 2020**.
 }
 
 .mu-single-price .mu-price-title {
-	color: #0000CC;
+	color: #36f;
 	font-size: 22px;
 	padding: 10px 0;
 }
@@ -95,13 +104,13 @@ inscriptions effectuées après le **1er Juin 2020**.
 
 .mu-single-price ul li{
 	list-style: none;
-	color: #0000CC;
+	color: #555;
 }
 
 .mu-register-btn {
-	background-color: #fffff;
-	border: 1px solid #0000CC;
-	color: #0000CC;
+	background-color: #fff;
+	border: 1px solid #555;
+	color: #555;
 	margin-top: 20px;
 	padding: 10px 40px;
 	text-align: center;
@@ -117,17 +126,19 @@ inscriptions effectuées après le **1er Juin 2020**.
 .mu-register-btn:hover,
 .mu-register-btn:focus,
 .mu-popular-price .mu-register-btn {
-	color: #0000CC;
+	background-color: #3366FF;
+	color: #fff;
 }
 
 .mu-popular-price .mu-price-tag {
-	color: #0000CC;
-	display: inline-block;
+	color: #fff;
+	background-color: #3366FF;
+    display: inline-block;
 	position: absolute;
-	top: 15px;
+	top: 12px;
 	left: -62px;
 	padding: 10px 60px;
-	font-size: 15px;
+	font-size: 12px;
 	text-transform: uppercase;
 	letter-spacing: 1.5px;
 	font-weight: 700;
@@ -137,22 +148,22 @@ inscriptions effectuées après le **1er Juin 2020**.
 </style>
 
 <div markdown="0" class="mu-pricing-conten">
-  <div markdown="0" class="row t30">
+  <div markdown="0" class="myrow">
     <!-- single price item -->
     <div markdown="0" class="col-md-4">
       <div markdown="0" class="mu-single-price">
 		<div markdown="0" class="mu-single-price-head">
-			<span class="mu-currency">&euro;</span>
 			<span class="mu-rate">200</span>
-			<span class="mu-time">/4 jours</span>
+			<span class="mu-currency">&euro;</span>
+			<span class="mu-time"> / 4j</span>
 		</div>
-		<h3 class="mu-price-title">ETUDIANT</h3>
+		<h3 class="mu-price-title">Étudiant</h3>
 		<ul>
-			<li>Pauses café</li>
+			<li>Pauses</li>
 			<li>Repas du midi</li>
 			<li>Social Event</li>
 		</ul>
-		<a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=e"> Inscription</a>
+		<a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php"> Inscription</a>
       </div>
     </div>
     <!-- / single price item -->
@@ -162,17 +173,17 @@ inscriptions effectuées après le **1er Juin 2020**.
       <div markdown="0" class="mu-single-price mu-popular-price">
 	<span class="mu-price-tag">Standard</span>
 	<div markdown="0" class="mu-single-price-head">
-	  <span class="mu-currency">&euro;</span>
 	  <span class="mu-rate">300</span>
-	  <span class="mu-time">/4 jours</span>
+	  <span class="mu-currency">&euro;</span>
+	  <span class="mu-time"> / 4j</span>
 	</div>
-	<h3 class="mu-price-title">CHERCHEUR</h3>
+	<h3 class="mu-price-title">Chercheur</h3>
 	<ul>
-	  <li>Pauses café</li>
+	  <li>Pauses</li>
 	  <li>Repas du midi</li>
 	  <li>Social Event</li>
 	</ul>
-	<a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=c"> Inscription</a>
+	<a class="mu-register-btn" href="https://2020.compas-conference.fr/"> Inscription</a>
       </div>
     </div>
     <!-- / single price item -->
@@ -182,17 +193,17 @@ inscriptions effectuées après le **1er Juin 2020**.
       <div markdown="0" class="mu-single-price">
 
 	<div markdown="0" class="mu-single-price-head">
-	  <span class="mu-currency">&euro;</span>
 	  <span class="mu-rate">50</span>
-	  <span class="mu-time">/1 jour</span>
+	  <span class="mu-currency">&euro;</span>
+	  <span class="mu-time"> / 1j</span>
 	</div>
-	<h3 class="mu-price-title">ATELIERS ONLY</h3>
+	<h3 class="mu-price-title">Ateliers </h3>
 	<ul>
-	  <li>Pauses café du 30 juin</li>
-	  <li>Repa du midi du 30 juin</li>
+	  <li>Pauses du 30 juin</li>
+	  <li>Repas du midi du 30 juin</li>
 	  <li>&nbsp;</li>
 	</ul>
-	<a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=a"> Inscription</a>
+	<a class="mu-register-btn" href="https://2020.compas-conference.fr/"> Inscription</a>
       </div>
     </div>
     <!-- / single price item -->

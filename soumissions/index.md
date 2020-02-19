@@ -11,6 +11,7 @@ header:
 ---
 
 Cette année, Compas souhaite encourager les contributions et la participation de la communauté des systèmes temps réel, cette thématique étant fortement liée aux thématiques déjà représentées à la conférence. Compas sollicite des contributions selon deux modes de soumissions :
+{: style="text-align: justify;"}
 
 ### **Option 1 : Article**
 {: style="text-align: center;"}
