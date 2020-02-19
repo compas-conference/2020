@@ -16,16 +16,6 @@ inscriptions effectuées après le **1er Juin 2020**.
 {: style="text-align: justify;"}
 
 <style type="text/css">
-.row {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px;
-}
-
 .col-md-4 {
 	-webkit-box-flex: 0;
 		-ms-flex: 0 0 33.3333333333%;
@@ -147,7 +137,6 @@ inscriptions effectuées après le **1er Juin 2020**.
 </style>
 
 <div markdown="0" class="mu-pricing-conten">
-  <div markdown="0" class="row">
     <!-- single price item -->
     <div markdown="0" class="col-md-4">
       <div markdown="0" class="mu-single-price">
@@ -198,14 +187,13 @@ inscriptions effectuées après le **1er Juin 2020**.
 	</div>
 	<h3 class="mu-price-title">ATELIERS ONLY</h3>
 	<ul>
-	  <li>Pauses café du 25 juin</li>
-	  <li>Repa du midi du 25 juin</li>
+	  <li>Pauses café du 30 juin</li>
+	  <li>Repas du midi du 30 juin</li>
 	  <li>&nbsp;</li>
 	</ul>
 	<a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=a"> Inscription</a>
       </div>
     </div>
     <!-- / single price item -->
-  </div>
 </div>
 
