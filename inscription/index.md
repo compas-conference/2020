@@ -56,7 +56,7 @@ inscriptions effectuées après le **1er Juin 2020**.
 }
 
 .mu-single-price-head {
-	color: #555;
+	color: #0000CC;
 	display: inline;
 	float: left;
 	width: 100%;
@@ -84,7 +84,7 @@ inscriptions effectuées après le **1er Juin 2020**.
 }
 
 .mu-single-price .mu-price-title {
-	color: #555;
+	color: #0000CC;
 	font-size: 22px;
 	padding: 10px 0;
 }
@@ -95,13 +95,13 @@ inscriptions effectuées après le **1er Juin 2020**.
 
 .mu-single-price ul li{
 	list-style: none;
-	color: #555;
+	color: #0000CC;
 }
 
 .mu-register-btn {
-	background-color: #fff;
-	border: 1px solid #555;
-	color: #555;
+	background-color: #fffff;
+	border: 1px solid #0000CC;
+	color: #0000CC;
 	margin-top: 20px;
 	padding: 10px 40px;
 	text-align: center;
@@ -117,11 +117,11 @@ inscriptions effectuées après le **1er Juin 2020**.
 .mu-register-btn:hover,
 .mu-register-btn:focus,
 .mu-popular-price .mu-register-btn {
-	color: #fff;
+	color: #0000CC;
 }
 
 .mu-popular-price .mu-price-tag {
-	color: #fff;
+	color: #0000CC;
 	display: inline-block;
 	position: absolute;
 	top: 15px;
@@ -137,6 +137,7 @@ inscriptions effectuées après le **1er Juin 2020**.
 </style>
 
 <div markdown="0" class="mu-pricing-conten">
+  <div markdown="0" class="row t30">
     <!-- single price item -->
     <div markdown="0" class="col-md-4">
       <div markdown="0" class="mu-single-price">
@@ -188,12 +189,13 @@ inscriptions effectuées après le **1er Juin 2020**.
 	<h3 class="mu-price-title">ATELIERS ONLY</h3>
 	<ul>
 	  <li>Pauses café du 30 juin</li>
-	  <li>Repas du midi du 30 juin</li>
+	  <li>Repa du midi du 30 juin</li>
 	  <li>&nbsp;</li>
 	</ul>
 	<a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=a"> Inscription</a>
       </div>
     </div>
     <!-- / single price item -->
+  </div>
 </div>
 
