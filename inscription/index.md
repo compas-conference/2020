@@ -3,11 +3,193 @@ layout: page
 #
 # Content
 #
-title: "Inscription"
+title: "Tarifs"
 teaser: ""
 header:
     image_fullwidth: "berges.jpg"
     permalink: "/"
 ---
-TBA
+@import "{{ site.theme }}";
+#mu-pricing {
+	background-color: #fff;
+	display: inline;
+	float: left;
+	width: 100%;
+}
+
+.mu-pricing-area {
+	display: inline;
+	float: left;
+	padding: 100px 0;
+	width: 100%;
+}
+
+.mu-pricing-conten {
+	display: inline;
+	float: left;
+	margin-top: 50px;
+	width: 100%;
+}
+
+.mu-single-price {
+	background-color: #f8f8f8;
+	display: inline;
+	float: left;
+	text-align: center;
+	position: relative;
+	width: 100%;
+	padding: 15px;
+	overflow: hidden;
+}
+
+.mu-single-price-head {
+	color: #555;
+	display: inline;
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.mu-single-price-head .mu-currency {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.mu-single-price-head .mu-rate {
+	font-size: 60px;
+	font-weight: bold;
+	line-height: 0.9;
+	letter-spacing: 3px;
+}
+
+.mu-single-price-head .mu-time {
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 0;
+	font-style: italic;
+}
+
+.mu-single-price .mu-price-title {
+	color: #555;
+	font-size: 22px;
+	padding: 10px 0;
+}
+
+.mu-single-price ul {
+	list-style: none;
+}
+
+.mu-single-price ul li{
+	list-style: none;
+	color: #555;
+}
+
+.mu-register-btn {
+	background-color: #fff;
+	border: 1px solid #555;
+	color: #555;
+	margin-top: 20px;
+	padding: 10px 40px;
+	text-align: center;
+	display: inline-block;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.mu-register-btn:hover,
+.mu-register-btn:focus,
+.mu-popular-price .mu-register-btn {
+	color: #fff;
+}
+
+.mu-popular-price .mu-price-tag {
+	color: #fff;
+	display: inline-block;
+	position: absolute;
+	top: 15px;
+	left: -62px;
+	padding: 10px 60px;
+	font-size: 15px;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	font-weight: 700;
+	transform: rotate(-45deg);
+	text-align: center;
+}
+
+Le tarif pour les 4 jours de conférence dépend de votre statut. Le paiement se fait en ligne de manière sécurisée via 
+Azur Colloques du **4 Mai 2020** au **21 Juin 2020**. Une majoration de **30&euro;** sera appliquée pour les 
+inscriptions effectuées après le **1er Juin 2020**.
+{: style="text-align: justify;"}
+
+	  <div class="mu-pricing-conten">
+	    <div class="row">
+	      
+	      <!-- single price item -->
+	      <div class="col-md-4"> <!-- anciennement col-md-4-->
+		<div class="mu-single-price">
+
+		  <div class="mu-single-price-head">
+		    <span class="mu-currency">&euro;</span>
+		    <span class="mu-rate">200</span>
+		    <span class="mu-time">/4 jours</span>
+		  </div>
+		  <h3 class="mu-price-title">ETUDIANT</h3>
+		  <ul>
+		    <li>Pauses café</li>
+		    <li>Repas du midi</li>
+		    <li>Social Event</li>
+		  </ul>
+		  <a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=e"> Inscription</a>
+		</div>
+	      </div>
+	      <!-- / single price item -->
+
+	      <!-- single price item -->
+	      <div class="col-md-4"> <!-- anciennement col-md-4-->
+		<div class="mu-single-price mu-popular-price">
+		  <span class="mu-price-tag">Standard</span>
+		  <div class="mu-single-price-head">
+		    <span class="mu-currency">&euro;</span>
+		    <span class="mu-rate">300</span>
+		    <span class="mu-time">/4 jours</span>
+		  </div>
+		  <h3 class="mu-price-title">CHERCHEUR</h3>
+		  <ul>
+		    <li>Pauses café</li>
+		    <li>Repas du midi</li>
+		    <li>Social Event</li>
+		  </ul>
+		  <a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=c"> Inscription</a>
+		</div>
+	      </div>
+	      <!-- / single price item -->
+
+	      <!-- single price item -->
+	      <div class="col-md-4">
+		<div class="mu-single-price">
+
+		  <div class="mu-single-price-head">
+		    <span class="mu-currency">&euro;</span>
+		    <span class="mu-rate">50</span>
+		    <span class="mu-time">/1 jour</span>
+		  </div>
+		  <h3 class="mu-price-title">ATELIERS ONLY</h3>
+		  <ul>
+		    <li>Pauses café du 25 juin</li>
+		    <li>Repa du midi du 25 juin</li>
+		    <li>&nbsp;</li>
+		  </ul>
+		  <a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=a"> Inscription</a>
+		</div>
+	      </div>
+	      <!-- / single price item -->
+
+	    </div>
+	  </div>
 
