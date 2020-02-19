@@ -6,7 +6,6 @@ header:
     image_fullwidth: "berges.jpg"
     permalink: "/"
 ---
-@import "{{ site.theme}}";
 
 Le tarif pour les 4 jours de conférence dépend de votre statut. Le paiement se fait en ligne de manière sécurisée via 
 Azur Colloques du **4 Mai 2020** au **21 Juin 2020**. Une majoration de **30&euro;** sera appliquée pour les 
@@ -24,7 +23,7 @@ inscriptions effectuées après le **1er Juin 2020**.
   margin-left: -15px;
 }
 
-col-md-4 {
+.col-md-4 {
 	-webkit-box-flex: 0;
 		-ms-flex: 0 0 33.3333333333%;
 			flex: 0 0 33.3333333333%;
