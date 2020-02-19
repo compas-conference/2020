@@ -1,14 +1,12 @@
 ---
-layout: page
-#
-# Content
-#
+layout: page_fullwidth
 title: "Tarifs"
 teaser: ""
 header:
     image_fullwidth: "berges.jpg"
     permalink: "/"
 ---
+@import "{{ site.theme}}";
 
 Le tarif pour les 4 jours de conférence dépend de votre statut. Le paiement se fait en ligne de manière sécurisée via 
 Azur Colloques du **4 Mai 2020** au **21 Juin 2020**. Une majoration de **30&euro;** sera appliquée pour les 
@@ -151,18 +149,18 @@ col-md-4 {
     <!-- single price item -->
     <div markdown="0" class="col-md-4">
       <div markdown="0" class="mu-single-price">
-	<div markdown="0" class="mu-single-price-head">
-	  <span class="mu-currency">&euro;</span>
-	  <span class="mu-rate">200</span>
-	  <span class="mu-time">/4 jours</span>
-	</div>
-	<h3 class="mu-price-title">ETUDIANT</h3>
-	<ul>
-	  <li>Pauses café</li>
-	  <li>Repas du midi</li>
-	  <li>Social Event</li>
-	</ul>
-	<a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=e"> Inscription</a>
+		<div markdown="0" class="mu-single-price-head">
+			<span class="mu-currency">&euro;</span>
+			<span class="mu-rate">200</span>
+			<span class="mu-time">/4 jours</span>
+		</div>
+		<h3 class="mu-price-title">ETUDIANT</h3>
+		<ul>
+			<li>Pauses café</li>
+			<li>Repas du midi</li>
+			<li>Social Event</li>
+		</ul>
+		<a class="mu-register-btn" href="https://compas2019.univ-pau.fr/subscribe.php?type=e"> Inscription</a>
       </div>
     </div>
     <!-- / single price item -->
