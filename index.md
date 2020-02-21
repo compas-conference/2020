@@ -16,7 +16,8 @@ chercheurs confirmés, de jeunes chercheurs et d'industriels. Compas permet de r
 recherche du monde francophone et favorise l’émergence de nouveaux sujets de recherche et collaborations, avec une 
 emphase sur l'intégration des jeunes chercheurs.
 
-L'édition 2020 aura lieu du 30 juin au 3 juillet à Lyon. Elle est organisée conjointement par le CC-IN2P3 - Centre de 
-Calcul de l'IN2P3 (USR6402) et le LIP - Laboratoire de l'Informatique du Parallélisme (UMR5668).
+L'édition 2020 aura lieu du 30 juin au 3 juillet à la **Maison Internationale des Langues et des Cultures** à Lyon. 
+Elle est organisée conjointement par le CC-IN2P3 - Centre de Calcul de l'IN2P3 (USR6402) et le LIP - Laboratoire de 
+l'Informatique du Parallélisme (UMR5668).
 
 
