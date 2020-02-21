@@ -14,6 +14,7 @@ header:
 
 L'édition 2020 de Compas aura lieu à la **Maison Internationale des Langues et des Cultures** (MILC) qui dépend de 
 l'Université Lyon 3 et dont l'adresse est :
+{: style="text-align: justify;"}
 
 **Maison Internationale des Langues et des Cultures** <br>
 **35 Rue Raulin** <br>
@@ -28,6 +29,7 @@ l'Université Lyon 3 et dont l'adresse est :
 La connexion entre l'aéroport de Lyon Saint Exupéry et la gare de Lyon Part Dieu est assurée par le 
 [Rhônexpress](www.rhonexpress.fr) en 30 minutes. Différents [tarifs](https://www.rhonexpress.fr/fr/billets-et-tarifs/37) 
 sont disponibles en fonction de votre âge et du mode de réservation.
+{: style="text-align: justify;"}
 
 Des taxis sont également disponibles, un trajet entre l'aéroport et le centre de Lyon vous coûtera entre 50€ et 75€.
 
@@ -35,6 +37,7 @@ Des taxis sont également disponibles, un trajet entre l'aéroport et le centre 
 
 La MILC est idéalement située entre les deux gares SNCF de Lyon et desservie par la ligne de Tram T1 
 (arrêt *Quai Claude Bernard*). 
+{: style="text-align: justify;"}
 
 + Depuis la gare de Lyon Part-Dieu, prendre la direction *Debourg*.
 + Depuis la gare de Lyon Perrache, prendre la direction *IUT Feyssine*.
