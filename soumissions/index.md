@@ -50,7 +50,7 @@ Compas n'a pas pour objectif de remplacer une publication dans une conférence i
 
 ### **Dates importantes**
 
-- [Option 1 : Article] Échéance : **20 Mars 2020**
-- [Option 2 : Résumé] Échéance : **10 Avril 2020**
+- [Option 1 : Article] Échéance : <s>&nbsp;20 Mars 2020&nbsp;</s>&nbsp;&nbsp;  **5 avril 2020 (AoE)**
+- [Option 2 : Résumé] Échéance : **10 Avril 2020 (AoE)**
 - Notification : **4 Mai 2020**
 
